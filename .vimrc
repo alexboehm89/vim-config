@@ -11,7 +11,8 @@ set number
 set relativenumber
 
 " Use spaces instead of tabs
-" set expandtab
-" set smarttab
+set tabstop=4
+set softtabstop=4
+set expandtab
 
 " ########## PLUGINS ######### "
