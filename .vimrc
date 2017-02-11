@@ -1,4 +1,4 @@
-" Thi is the configuration file for VIM
+"This is the configuration file for VIM
 
 " Pathogen plugin manager
 execute pathogen#infect()
